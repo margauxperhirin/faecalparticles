@@ -20,7 +20,7 @@ Authors : Margaux Perhirin<sup>1</sup>*, Laure Vilgrain<sup>2</sup>, Marc Picher
 
 On this GitHub you can find :
 - Data : all the raw and transformed data needed for the scripts to be run
-    - ecotaxa_export_149_20231221_1029.tsv
+    - ecotaxa_export_149_20231221_1029.tsv (associated images can be found on EcoTaxa web application https://ecotaxa.obs-vlfr.fr/, project ‘UVP5hd GreenEdge 2016 [149]’, access authorisation required)
     - taxon_ecotaxa.csv
     - zoo_env_greenedge_final.csv
     - Arctic_Driftingtraps25m.csv
