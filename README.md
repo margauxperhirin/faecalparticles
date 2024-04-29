@@ -14,7 +14,7 @@ Authors : Margaux Perhirin<sup>1</sup>*, Laure Vilgrain<sup>2</sup>, Marc Picher
 
 <sup>5</sup> Institut Universitaire de France, Paris, France.
 
-* corresponding author margaux.perhirin@locean.ipsl.fr 
+\* corresponding author margaux.perhirin@locean.ipsl.fr 
 
 ## How does it work?
 
